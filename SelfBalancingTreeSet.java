@@ -1,7 +1,4 @@
-/*THIS CODE WAS MY OWN WORK, 
-IT WAS WRITTEN WITHOUT CONSULTING ANYSOURCES 
-OUTSIDE OF THOSE APPROVED BY THE INSTRUCTOR. 
-[Wali Khan, 2308097]*/
+
 import java.util.Comparator;
 //** This will be my implementation of an AVL tree */
 public class SelfBalancingTreeSet<K> extends TreeSet<K> {
