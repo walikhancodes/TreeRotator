@@ -1,7 +1,4 @@
-/*THIS CODE WAS MY OWN WORK, 
-IT WAS WRITTEN WITHOUT CONSULTING ANYSOURCES 
-OUTSIDE OF THOSE APPROVED BY THE INSTRUCTOR. 
-*/
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Stack;
